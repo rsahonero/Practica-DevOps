@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 ADDING FIRST LINE FOR FEATURE A
 
+=======
+First commit
+Second commit
+third commit
+four commit
+>>>>>>> featureA
