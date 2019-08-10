@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ADDING FEATURE B
+=======
+Second commit 
+third commit
+fourt commit
+>>>>>>> featureB
